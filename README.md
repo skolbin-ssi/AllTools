@@ -8,6 +8,8 @@ All reasonably stable tools
 
 **BgInfo** - WPF version of the Sysinternals BgInfo tool
 
+**BITSMgr** - BITS jobs manager application
+
 **CLR Explorer** - View .NET process information / dump file
 
 **CpuStres** - thread/CPU stress testing app
@@ -42,8 +44,6 @@ All reasonably stable tools
 
 **ObjDir** - command line tool to show object manager namespace
 
-**Object Explorer** - view objects and handles of kernel objects (and much more!)
-
 **PEExplorer** - PE file viewer
 
 **PEExplorerV2** - PE file viewer version 2.0
@@ -55,6 +55,8 @@ All reasonably stable tools
 **PerfMonX** - enhanced Performance Monitor tool
 
 **ProcMonX** - ProcMon-like tool based on Event Tracing for Windows (ETW)
+
+**ProcMonX v2** - Enhanced ProcMon-like tool based on Event Tracing for Windows (ETW)
 
 **QSlice** - modern version of the classic QSlice tool
 
