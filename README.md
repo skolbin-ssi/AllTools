@@ -28,7 +28,7 @@ All reasonably stable tools
 
 **GFlagsX** - enhanced version of the GFlags tool
 
-**Job Explorer** - View job objects
+**INF Studio** - view/edit INF files
 
 **Kdump** - generate a local kernel dump
 
@@ -43,6 +43,8 @@ All reasonably stable tools
 **NtfsStreams** - show NTFS alternate streams in files
 
 **ObjDir** - command line tool to show object manager namespace
+
+**ObjExp** - Object Explorer, explore objects and handles
 
 **PEExplorer** - PE file viewer
 
@@ -65,6 +67,8 @@ All reasonably stable tools
 **Sysrun** - run any executable with the SYSTEM account (no service needed)
 
 **System Explorer** - system, processes, threads, objects, handles, and other information - all in one tool
+
+**Total PE** - Yet another PE viewer (WIP)
 
 **TotalReg** - Total Registry - view real Registry, udo/redo, and more.
 
